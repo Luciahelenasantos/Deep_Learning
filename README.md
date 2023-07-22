@@ -1,2 +1,2 @@
 # Deep_Learning
-Repositório para a criação de um modelo de Classificação em Linguagem Visual
+<p align="center">O projeto tem como objetivo treinar um modelo rede neural, para um problema de Linguagem Visual, utilizando Classificação binária, tendo como fim a identificação de imagens relativas à locais com e sem fogo, importante informar que as imagens utilizadas foram obtidas na plataforma Kaggle, onde é possível obter de dados para implementação de modelos de Machine Learning e de Deep Learning</p>
